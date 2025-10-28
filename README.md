@@ -34,8 +34,3 @@ cd VirtualTryOn-DressUp
 
 python app.py  
 
-The app will open in your browser automatically at:  
-👉 http://127.0.0.1:7860
-
-------------------------------------------------------------
-
