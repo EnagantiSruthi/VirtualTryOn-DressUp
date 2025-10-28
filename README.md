@@ -20,7 +20,7 @@ An interactive AI-powered Virtual Try-On web app built with Gradio that lets use
 <img width="1920" height="898" alt="Image" src="https://github.com/user-attachments/assets/deca43f1-b8a3-4c74-9c9a-711faadee0b9" />
 
 # output
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96e45f89-8d7c-436c-8619-fbd38b05a3d0" />
+<img width="1920" height="1027" alt="Image" src="https://github.com/user-attachments/assets/eeea4937-fa12-4215-86e4-ce23e6ba3d07" />
 
 
 ## 🚀 Installation & Run
