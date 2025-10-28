@@ -26,24 +26,11 @@ An interactive AI-powered Virtual Try-On web app built with Gradio that lets use
 ## 🚀 Installation & Run
 
 1️⃣ Clone the Repository 
-```bash
-git clone [https://github.com/yourusername/virtual-tryon.git](https://github.com/EnagantiSruthi/VirtualTryOn-DressUp/tree/main)
 
-```bash 
+git clone https://github.com/EnagantiSruthi/VirtualTryOn-DressUp
+
 cd VirtualTryOn-DressUp  
 
-2️⃣ Create a Virtual Environment (recommended)
-```bash  
-python -m venv venv  
-source venv/bin/activate      # on Linux/Mac  
-venv\Scripts\activate         # on Windows  
-
-3️⃣ Install Dependencies
-```bash  
-pip install -r requirements.txt  
-
-4️⃣ Run the App
-```bash 
 python app.py  
 
 The app will open in your browser automatically at:  
