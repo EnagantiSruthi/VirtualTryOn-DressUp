@@ -25,7 +25,8 @@ An interactive AI-powered Virtual Try-On web app built with Gradio that lets use
 
 ## 🚀 Installation & Run
 
-1️⃣ Clone the Repository  
+1️⃣ Clone the Repository 
+```bash
 git clone [https://github.com/yourusername/virtual-tryon.git](https://github.com/EnagantiSruthi/VirtualTryOn-DressUp/tree/main)  
 cd VirtualTryOn-DressUp  
 
