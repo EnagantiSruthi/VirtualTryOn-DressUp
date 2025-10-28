@@ -30,7 +30,9 @@ An interactive AI-powered Virtual Try-On web app built with Gradio that lets use
 ```bash
 git clone https://github.com/EnagantiSruthi/VirtualTryOn-DressUp
 
-cd VirtualTryOn-DressUp  
+cd VirtualTryOn-DressUp
+
+pip install -r requirements.txt
 
 python app.py  
 
